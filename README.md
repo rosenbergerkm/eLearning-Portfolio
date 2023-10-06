@@ -10,10 +10,10 @@ As a young professional in Instructional Design and Educational Learning Technol
 
 # Infographics, Fliers, Information Documents
 
-[Digital Citizenship Infographic] (https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf)
-[TPack Infographic] (https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/TPACK%20Infograph.pdf)
+[Digital Citizenship Infographic](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf)
+[TPack Infographic](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/TPACK%20Infograph.pdf)
 [Horizon Workrooms Flier](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Horizon%20Workrooms%20Flier.pdf)
-[Useful Links(UNM Los Alamos Student Help Information Document)] (https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Useful%20Links_v3.4.pdf)
+[Useful Links(UNM Los Alamos Student Help Information Document)](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Useful%20Links_v3.4.pdf)
 
 
 
