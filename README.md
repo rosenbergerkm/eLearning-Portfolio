@@ -7,6 +7,7 @@ As a young professional in Instructional Design and Educational Learning Technol
 
 # Online Course Samples
 [Course Objectives Sample](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Goal%20Analysis%20_%20Objective%20Outlines.pdf)
+[Course Outline Sample (Fundamentals of Music Production)](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Course%20Outline%20Example%20-%20Fundamentals%20of%20Music%20Production.pdf)
 
 # Infographics, Fliers, Information Documents
 
