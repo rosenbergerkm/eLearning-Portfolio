@@ -8,5 +8,12 @@ As a young professional in Instructional Design and Educational Learning Technol
 # Online Course Samples
 [Course Objectives Sample](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Goal%20Analysis%20_%20Objective%20Outlines.pdf)
 
-#Infographics, Fliers, Information Documents
+# Infographics, Fliers, Information Documents
+
+[Digital Citizenship Infographic] (https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Digital%20Citizenship.pdf)
+[TPack Infographic] (https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/TPACK%20Infograph.pdf)
+[Horizon Workrooms Flier](https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Horizon%20Workrooms%20Flier.pdf)
+[Useful Links(UNM Los Alamos Student Help Information Document)] (https://github.com/rosenbergerkm/eLearning-Portfolio/blob/main/Useful%20Links_v3.4.pdf)
+
+
 
