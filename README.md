@@ -1,13 +1,3 @@
-DIV.repository-content {
-    display: table
-}
-DIV.js-repo-meta-container {
-    display: table-caption
-}
-DIV.readme {
-    display: table-header-group
-}
-
 # Welcome to my eLearning Portfolio!
 
 As a young professional in Instructional Design and Educational Learning Technologies, I have provided a collection of sample materials that demonstrate my skills in these fields. Please see my work below!
